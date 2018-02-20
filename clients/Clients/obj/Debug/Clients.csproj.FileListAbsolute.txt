@@ -1,0 +1,15 @@
+C:\study\clients\Clients\bin\Debug\Clients.exe.config
+C:\study\clients\Clients\bin\Debug\Clients.exe
+C:\study\clients\Clients\bin\Debug\Clients.pdb
+C:\study\clients\Clients\bin\Debug\Dapper.dll
+C:\study\clients\Clients\bin\Debug\ListViewPrinter.dll
+C:\study\clients\Clients\bin\Debug\ObjectListView.dll
+C:\study\clients\Clients\bin\Debug\SparkleLibrary.dll
+C:\study\clients\Clients\bin\Debug\Dapper.xml
+C:\study\clients\Clients\obj\Debug\Clients.ClientList.resources
+C:\study\clients\Clients\obj\Debug\Clients.SaveClient.resources
+C:\study\clients\Clients\obj\Debug\Clients.Properties.Resources.resources
+C:\study\clients\Clients\obj\Debug\Clients.csproj.GenerateResource.Cache
+C:\study\clients\Clients\obj\Debug\Clients.exe
+C:\study\clients\Clients\obj\Debug\Clients.pdb
+C:\study\clients\Clients\obj\Debug\Clients.csprojResolveAssemblyReference.cache
